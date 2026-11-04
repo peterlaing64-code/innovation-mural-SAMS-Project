@@ -1,1 +1,13 @@
 # innovation-mural-SAMS-Project
+
+
+
+
+DISCLAIMER!!!!!!!!!!!
+
+
+I DIDN'T INCLUDE ALL OF THE LIBRARIES IN THE LIB FOLDER!
+
+
+
+BE CAREFUL ABOUT THAT.
